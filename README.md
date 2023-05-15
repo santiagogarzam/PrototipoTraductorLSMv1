@@ -3,6 +3,12 @@
 ## Introducion
 Este es una aplicacion/prototipo de traductor de lenguaje de señas mexicano que correo como pagina web para el sector salud y la gente discapacitada pueda decir cual es su malestar.
 
+### Fundamentos
+Todo esto fue igualmente con las bases de otro github el que cuenta con la creacion del modelo y las pruebas que se tuvieron, este es una version lit solo para el uso y demostracion rapida del modelo y su practicidad
+```python
+https://github.com/yosthin06/Traductor_LSM
+```
+
 ## Instalacion
 Para hacer uso solo tienes que copiar el repocitorio en tu cordenador con el siguiente comando:
 ```python
@@ -40,6 +46,4 @@ Para tener acceso a la base de datos se tiene que solicitar y llenar un formato 
 ```python
 antonio.martinez@udem.edu 
 ```
-Este es un repositorio donde se tendran las instrucciones para acceder a la base de datos de Lengua de Señas Mexicana, la cual esta conformada por el abecedario y algunas palabras clave enfocadas al sector mco como cabeza, garganta, estomago, gripe, dolor, etc.
-
-
+Al obtener acceso se al abecedario y algunas palabras clave enfocadas al sector mco como cabeza, garganta, estomago, gripe, dolor, etc.
