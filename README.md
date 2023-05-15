@@ -22,6 +22,8 @@ Para poder correr el programa se necesitan las siguientes librerias
 - pandas
 - flask
 
+Para instalacion de tensorflow para macbook m1 es diferente para que se revise los comandos necesarios.
+
 ## Carpetas
 Se tienen las siguiente carpetas
 - static
