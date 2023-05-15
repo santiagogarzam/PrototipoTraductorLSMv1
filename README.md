@@ -12,6 +12,16 @@ Una vez descargado la carpeta abrela y corre el programa runMe.py
 
 Copia la liga y pegala en tu navegador web (Google Chrome) y otorga el permiso del uso de la camara.
 
+### Librerias
+Para poder correr el programa se necesitan las siguientes librerias
+- cv2
+- numpy
+- mediapipe
+- tensorflow
+- keras
+- pandas
+- flask
+
 ## Carpetas
 Se tienen las siguiente carpetas
 - static
