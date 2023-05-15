@@ -46,4 +46,4 @@ Para tener acceso a la base de datos se tiene que solicitar y llenar un formato 
 ```python
 antonio.martinez@udem.edu 
 ```
-Al obtener acceso se al abecedario y algunas palabras clave enfocadas al sector mco como cabeza, garganta, estomago, gripe, dolor, etc.
+Al obtener acceso se tendra uso del abecedario y algunas palabras clave enfocadas al sector mco como cabeza, garganta, estomago, gripe, dolor, etc.
