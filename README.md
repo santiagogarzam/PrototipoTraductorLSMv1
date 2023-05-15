@@ -40,3 +40,6 @@ Para tener acceso a la base de datos se tiene que solicitar y llenar un formato 
 ```python
 antonio.martinez@udem.edu 
 ```
+Este es un repositorio donde se tendran las instrucciones para acceder a la base de datos de Lengua de Señas Mexicana, la cual esta conformada por el abecedario y algunas palabras clave enfocadas al sector mco como cabeza, garganta, estomago, gripe, dolor, etc.
+
+
